@@ -3,7 +3,7 @@
 🧰 Toolbox 
 
 
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
+<img src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183671.png?token=exp=1637512055~hmac=54da450b5256f83b12af6bf5f11066d0" alt="HTML Logo" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/53869656/142769952-51edde6b-5d61-463a-a92f-b8b3d9da18a1.png" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
 ---
 
 <!--
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
