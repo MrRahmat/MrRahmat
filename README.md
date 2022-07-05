@@ -11,16 +11,6 @@
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 
 ---
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.mrrahmat.vercel.app/api/spotify)](https://open.spotify.com/user/987iasme2cd13qn87wxrmk46l)
-
----
-
- 
  
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MrRahmat&repo=MrRahmat&countColorcountColor&countColor=%237B1E7B"/>
 
