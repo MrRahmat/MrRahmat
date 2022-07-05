@@ -16,7 +16,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.MrRahmat.vercel.app/api/spotify)](https://open.spotify.com/user/987iasme2cd13qn87wxrmk46l)
+[![Spotify](https://novatorem.mrrahmat.vercel.app/api/spotify)](https://open.spotify.com/user/987iasme2cd13qn87wxrmk46l)
 
 ---
 
