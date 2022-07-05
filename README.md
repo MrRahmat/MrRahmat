@@ -10,10 +10,17 @@
 
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 
-<--
-<img src="https://cdn-icons.flaticon.com/png/512/3755/premium/3755130.png?token=exp=1641492362~hmac=1e9cd11bf0a590bb4b1ed93ceaeb8091" alt="HTML Logo" width="50" height="50"/>  <img src="https://user-images.githubusercontent.com/53869656/142769952-51edde6b-5d61-463a-a92f-b8b3d9da18a1.png" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next Logo" width="50" height="50"/>
- -->
 ---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/987iasme2cd13qn87wxrmk46l)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 <!--
 **MrRahmat/MrRahmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
