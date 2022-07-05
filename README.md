@@ -1,8 +1,12 @@
 # Hi there 👋, I'm Mr.Rahmat
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrRahmat&show_icons=false">
-<img src="https://github-readme-stats.vercel.app/api?username=C4tWithShell&show_icons=false">
+<img  width="500px" src="https://github-readme-stats.vercel.app/api?username=MrRahmat&show_icons=false">
+<img  width="500px" src="https://github-readme-stats.vercel.app/api?username=C4tWithShell&show_icons=false">
+
+
+<img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrRahmat&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
+</a>
 
 <!-- ## 🧰 Toolbox 
 
