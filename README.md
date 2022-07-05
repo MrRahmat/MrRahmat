@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Mr.Rahmat
 ---
 
-<img  width="500px" src="https://github-readme-stats.vercel.app/api?username=MrRahmat&show_icons=false&hide_border=true"> <img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrRahmat&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
+<img  width="500px" src="https://github-readme-stats.vercel.app/api?username=MrRahmat&hide=stars,issues&count_private=true&show_icons=false&hide_border=true"> <img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrRahmat&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
 </a>
 
 <!-- ## 🧰 Toolbox 
